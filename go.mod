@@ -10,7 +10,7 @@ require (
 	github.com/google/uuid v1.1.2
 	github.com/hako/durafmt v0.0.0-20200710122514-c0fb7b4da026
 	github.com/kr/pretty v0.1.0 // indirect
-	github.com/lestrrat-go/jwx v1.0.6
+	github.com/lestrrat-go/jwx v1.2.11
 	github.com/rs/zerolog v1.20.0
 	github.com/shirou/gopsutil v2.20.9+incompatible
 	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
